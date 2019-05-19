@@ -34,10 +34,8 @@ const BlogPage = () => {
             </li>
           )
         })}
-        }
-
       </ol>
     </Layout>
   )
-
+}
 export default BlogPage
