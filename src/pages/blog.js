@@ -39,5 +39,5 @@ const BlogPage = () => {
       </ol>
     </Layout>
   )
-}
+
 export default BlogPage
